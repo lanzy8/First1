@@ -3,7 +3,11 @@
 	<servers>
 		默认内容
 		新的内容
+<<<<<<< HEAD
 	1111
+=======
+		小明来了
+>>>>>>> master
 		<server>
 			<id>releases</id>
 			<username>deployment</username>
