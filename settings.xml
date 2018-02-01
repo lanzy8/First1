@@ -2,6 +2,7 @@
 	<localRepository>D:\maven\repo</localRepository>
 	<servers>
 		您好
+		7777
 		<server>
 			<id>releases</id>
 			<username>deployment</username>
