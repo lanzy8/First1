@@ -2,6 +2,7 @@
 	<localRepository>D:\maven\repo</localRepository>
 	<servers>
 		默认内容
+		新的内容
 		<server>
 			<id>releases</id>
 			<username>deployment</username>
