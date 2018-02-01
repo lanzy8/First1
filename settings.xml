@@ -1,8 +1,7 @@
 <settings>
 	<localRepository>D:\maven\repo</localRepository>
 	<servers>
-		您好
-		7777
+		默认内容
 		<server>
 			<id>releases</id>
 			<username>deployment</username>
