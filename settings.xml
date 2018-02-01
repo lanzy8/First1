@@ -1,6 +1,8 @@
 <settings>
 	<localRepository>D:\maven\repo</localRepository>
 	<servers>
+		测试
+		您好
 		<server>
 			<id>releases</id>
 			<username>deployment</username>
